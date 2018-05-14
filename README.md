@@ -1,3 +1,3 @@
-# Q Learning
+# Q-Learning
 
-Implementation of a reinforcement learning algorithm for solving a 3x3 Taquin Board Game.
+Q-Learning implementation for solving a 3x3 Taquin Board Game.
